@@ -1,0 +1,2 @@
+include textteaser/trainer/stopWords.txt
+include textteaser/trainer/english.pickle
